@@ -6,3 +6,4 @@ An attempt to further my understanding of various machine learning algorithms an
 ## Current Algorithims
 * Stochastic Gradient Descent Regressor
 * Decision Tree Classifier
+* Q-Learning (Reinforcement)
